@@ -1,0 +1,14 @@
+.login-dialog-box{
+    min-width: 35vw;
+    width: auto;
+}
+.login-input-box{
+    width: 20rem;
+}
+
+@media screen and (max-width: 768px) {
+    .login-dialog-box{
+        min-width: 90vw;
+        width: auto;
+    }
+}
